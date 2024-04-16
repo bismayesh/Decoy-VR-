@@ -8,27 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Chrome
-    second: {fileID: 2100000, guid: 26ac3979f225d8d47bde2371f683867f, type: 2}
+    second: {fileID: 2100000, guid: 1af459be05ddba847b32539e68dba6ac, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: floor1
-    second: {fileID: 2100000, guid: e65695cd4a0f02f449d0de86c971757f, type: 2}
+    second: {fileID: 2100000, guid: 4212dbe8a72c52a4e9f7d54cdd0065c5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wall
-    second: {fileID: 2100000, guid: 846329466424a6840a0a03d639334b0b, type: 2}
+    second: {fileID: 2100000, guid: 54a469824ea5c1548940ea466452c9c5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: window
-    second: {fileID: 2100000, guid: 3d08f1f5ae2494f4cbddcdcbfd64d8ab, type: 2}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: wheathered-wall-texture
-    second: {fileID: 2800000, guid: d64744cd25b48934687546d7a66a8af2, type: 3}
+    second: {fileID: 2100000, guid: af67fded57ccaee43a2d460e003f670a, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

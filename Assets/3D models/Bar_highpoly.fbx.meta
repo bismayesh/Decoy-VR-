@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bar_counter
-    second: {fileID: 2100000, guid: dcded4a4caaaae942a8cbc035ba848f1, type: 2}
+    second: {fileID: 2100000, guid: 6a52f934574013e4aa1794eb06df176b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -18,22 +18,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Emission
-    second: {fileID: 2100000, guid: f9c11e8feaed6a640a437b4ced7cc66f, type: 2}
+    second: {fileID: 2100000, guid: 6874a5a084f28714eb1d32d35a69701e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Metall_green
-    second: {fileID: 2100000, guid: eb6d035357460ef4b9fc622896d80ba7, type: 2}
+    second: {fileID: 2100000, guid: 93b96c68c78c80e4bbdf86039e38e552, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Resin
-    second: {fileID: 2100000, guid: 28488403d71c43541a6833f0b14587d4, type: 2}
+    second: {fileID: 2100000, guid: 94f3077eb2ffc104698b78e3fed47d13, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Sand
-    second: {fileID: 2100000, guid: ad1b7719c74290e40b2303a93b1e40e7, type: 2}
+    second: {fileID: 2100000, guid: 79ccebfa7be8540429cbf7645f80aa47, type: 2}
   materials:
     materialImportMode: 1
     materialName: 1
