@@ -423,6 +423,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom (5)
@@ -3268,6 +3272,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom (8)
@@ -3600,6 +3608,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom (7)
@@ -5556,6 +5568,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom
@@ -6122,6 +6138,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom (6)
@@ -7981,10 +8001,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 643bd4f76d8e88e42803b0997969de3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 016de8fb9a5c7b343acc559d0a2f4813, type: 2}
+    - target: {fileID: -5685935326554140126, guid: 643bd4f76d8e88e42803b0997969de3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e2685ade8f258974596c788eb9ff2647, type: 2}
     - target: {fileID: -1917876248700837287, guid: 643bd4f76d8e88e42803b0997969de3b, type: 3}
       propertyPath: m_LocalPosition.y
       value: -0.18959236
       objectReference: {fileID: 0}
+    - target: {fileID: 85025282212108441, guid: 643bd4f76d8e88e42803b0997969de3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e2685ade8f258974596c788eb9ff2647, type: 2}
     - target: {fileID: 919132149155446097, guid: 643bd4f76d8e88e42803b0997969de3b, type: 3}
       propertyPath: m_Name
       value: bunch of mushrooms
@@ -7993,6 +8025,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -0.121
       objectReference: {fileID: 0}
+    - target: {fileID: 7560778170021772257, guid: 643bd4f76d8e88e42803b0997969de3b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e2685ade8f258974596c788eb9ff2647, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -8883,6 +8919,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bdf48ac7308c1843bdcbc7e56d10d74, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57752055a6c19f0499562be76b66a469, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bdf48ac7308c1843bdcbc7e56d10d74, type: 3}
       propertyPath: m_Name
       value: BlueOysterCluster03
@@ -9093,6 +9133,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bdf48ac7308c1843bdcbc7e56d10d74, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57752055a6c19f0499562be76b66a469, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bdf48ac7308c1843bdcbc7e56d10d74, type: 3}
       propertyPath: m_Name
       value: BlueOysterCluster03
@@ -9167,6 +9211,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1fac5934a5ee10a4991b44228c84bd67, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1fac5934a5ee10a4991b44228c84bd67, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a02bb3c6b815a4f4e94a6fe33184ddf7, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 1fac5934a5ee10a4991b44228c84bd67, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: a02bb3c6b815a4f4e94a6fe33184ddf7, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 1fac5934a5ee10a4991b44228c84bd67, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: a02bb3c6b815a4f4e94a6fe33184ddf7, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 1fac5934a5ee10a4991b44228c84bd67, type: 3}
+      propertyPath: m_Materials.Array.data[3]
+      value: 
+      objectReference: {fileID: 2100000, guid: a02bb3c6b815a4f4e94a6fe33184ddf7, type: 2}
     - target: {fileID: 919132149155446097, guid: 1fac5934a5ee10a4991b44228c84bd67, type: 3}
       propertyPath: m_Name
       value: mushroom_Final
@@ -9241,6 +9305,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom (4)
@@ -9520,6 +9588,14 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.08766
       objectReference: {fileID: 0}
+    - target: {fileID: -3466714691129156158, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 016de8fb9a5c7b343acc559d0a2f4813, type: 2}
+    - target: {fileID: 260211147862238273, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f5ba163a4229c4d45853932515d4351b, type: 2}
     - target: {fileID: 919132149155446097, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
       propertyPath: m_Name
       value: mushroom (1)
@@ -10370,6 +10446,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom (2)
@@ -11012,6 +11092,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9bdf48ac7308c1843bdcbc7e56d10d74, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 57752055a6c19f0499562be76b66a469, type: 2}
     - target: {fileID: 919132149155446097, guid: 9bdf48ac7308c1843bdcbc7e56d10d74, type: 3}
       propertyPath: m_Name
       value: BlueOysterCluster03
@@ -14015,10 +14099,38 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.08766
       objectReference: {fileID: 0}
+    - target: {fileID: -3466714691129156158, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 016de8fb9a5c7b343acc559d0a2f4813, type: 2}
+    - target: {fileID: -1075733346221537797, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f5ba163a4229c4d45853932515d4351b, type: 2}
+    - target: {fileID: 260211147862238273, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f5ba163a4229c4d45853932515d4351b, type: 2}
     - target: {fileID: 919132149155446097, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
       propertyPath: m_Name
       value: mushroom
       objectReference: {fileID: 0}
+    - target: {fileID: 5388843782465051340, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.2253
+      objectReference: {fileID: 0}
+    - target: {fileID: 5388843782465051340, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.4378
+      objectReference: {fileID: 0}
+    - target: {fileID: 5388843782465051340, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.0618
+      objectReference: {fileID: 0}
+    - target: {fileID: 7386270006478784870, guid: f6ab59e3482aa78458669f9f34b1b740, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f5ba163a4229c4d45853932515d4351b, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15942,6 +16054,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom (1)
@@ -16266,6 +16382,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2708447600294866139, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: cb31bd65cffc9ac4c87e98ea3019fb2f, type: 2}
     - target: {fileID: 919132149155446097, guid: 4d616576168c9264da81d5b2b6a570f9, type: 3}
       propertyPath: m_Name
       value: DancingMushroom (3)
