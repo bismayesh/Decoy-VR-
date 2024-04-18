@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/DecoyScene2.unity
+    guid: 8d9ab61739229a54094229908651277b
+  - enabled: 1
+    path: Assets/Scenes/DecoyScene1.unity
+    guid: 12b69694b4fc3cf47945d6b8cc22f104
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1d489df9ab8782d49be47fc98ffd53ef, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 017eb58e941943545b9fc8ddeead3bcf, type: 2}
