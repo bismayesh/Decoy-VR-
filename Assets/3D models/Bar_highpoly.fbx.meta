@@ -3,40 +3,10 @@ guid: 2f90be14c8325ad4c85923668d086abd
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Bar_counter
-    second: {fileID: 2100000, guid: 6a52f934574013e4aa1794eb06df176b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Chrome
-    second: {fileID: 2100000, guid: d3e660639b1db794abd009f5ecc6c2cf, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Emission
-    second: {fileID: 2100000, guid: 6874a5a084f28714eb1d32d35a69701e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metall_green
-    second: {fileID: 2100000, guid: 93b96c68c78c80e4bbdf86039e38e552, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Resin
-    second: {fileID: 2100000, guid: 94f3077eb2ffc104698b78e3fed47d13, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Sand
-    second: {fileID: 2100000, guid: 79ccebfa7be8540429cbf7645f80aa47, type: 2}
+  externalObjects: {}
   materials:
-    materialImportMode: 1
-    materialName: 1
+    materialImportMode: 2
+    materialName: 0
     materialSearch: 1
     materialLocation: 1
   animations:
@@ -78,7 +48,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
